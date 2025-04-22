@@ -6,8 +6,8 @@
 #include "base64.h"
 
 // Configuración de WiFi
-const char* ssid = "AndroidAP1D18";
-const char* password = "onnn1087";
+const char* ssid = "iPhone de Anita";
+const char* password = "conectate8080";
 
 // Configuración MQTT
 const char* mqtt_server = "195.235.211.197";
@@ -179,4 +179,3 @@ void loop() {
 
     delay(1000);
 }
-
