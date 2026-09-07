@@ -52,4 +52,4 @@ Project developed as part of the Bachelor's Degree in Computer Engineering at **
 
 - Ana Esteban González
 - Andrés Ramos García
-- Paula Sáenz de Santa María Díez
+- Paula Sáenz de Santa María Diez
