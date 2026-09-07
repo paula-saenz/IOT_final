@@ -18,16 +18,7 @@ The system captures images and metadata, transmits the information through MQTT,
 
 ## Architecture
 
-ESP32-CAM
-    ↓
-MQTT Broker
-    ↓
-Python Processing
-    ↓
-Encryption
-    ↓
-MongoDB
-
+ESP32-CAM --> MQTT Broker --> Python Processing --> Encryption --> MongoDB
 
 ## Project Structure
 
